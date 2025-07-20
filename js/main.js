@@ -134,9 +134,9 @@ if(urlParams.has("day")){//from querystring
             color:"Orange",
             name:"Pumpkin Spice Latte",
             pic:"pumpkin-spice-latte.jpg",
-            alt:"A picture of a pumpking spice latte",
+            alt:"A picture of a pumpkin spice latte",
             day:"Sunday",
-            desc:`I love pumpking spice latte!`
+            desc:`I love pumpkin spice latte!`
             };
          break;
             
